@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"wget\",
+  \"name\": \"GNU Wget\",
+  \"version\": \"1.21.4\",
+  \"description\": \"Network utility to retrieve files from the web using HTTP, HTTPS and FTP\",
+  \"category\": \"networking\",
+  \"size\": 1536000,
+  \"dependencies\": [\"openssl\"],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/wget-1.21.4-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum-replace-with-real-one\"
+}
