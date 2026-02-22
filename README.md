@@ -1,127 +1,73 @@
-# Bountu Global Package Repository
+﻿# Bountu Packages Repository
 
-Welcome to the **Bountu Global Package Repository**! This is the official package repository for Bountu - a cross-platform package manager for Android and Windows.
+## 📦 Available Packages (15 total)
 
-## 🌍 What is This?
+### Editors
+- **nano** - Simple text editor with syntax highlighting
+- **vim** - Advanced text editor
+- **vscode** - Visual Studio Code
 
-This repository contains:
-- **Package Metadata**: Information about all available packages
-- **Configuration Files**: App settings and maintenance status
-- **Package Manifests**: Download URLs, checksums, dependencies
+### System Tools
+- **busybox** - Swiss Army knife of embedded Linux
+- **htop** - Interactive process viewer
 
-## 📦 Repository Structure
+### Networking
+- **curl** - Data transfer tool
+- **wget** - File downloader
+- **openssh** - Secure shell client/server
+- **rsync** - File synchronization tool
 
-```
-bountu-packages-global/
-├── config/
-│   ├── maintenance.json      # Maintenance mode configuration
-│   └── app_config.json        # App-wide configuration
-├── packages/
-│   ├── busybox/
-│   │   └── metadata.json
-│   ├── git/
-│   │   └── metadata.json
-│   ├── python3/
-│   │   └── metadata.json
-│   └── [more packages]/
-├── categories/
-│   └── categories.json        # Package categories
-└── README.md
-```
+### Development
+- **git** - Version control system
+- **nodejs** - JavaScript runtime
+- **python3** - Python programming language
 
-## 🚀 How It Works
+### Multimedia
+- **ffmpeg** - Multimedia framework
 
-1. **Android & Desktop Apps** clone this repository
-2. Apps read package metadata from JSON files
-3. Apps download actual packages from URLs in metadata
-4. Updates are synced via `git pull`
+### Utilities
+- **tmux** - Terminal multiplexer
+- **zip** - Compression utility
 
-## 📱 Supported Platforms
+## 🚀 Quick Start
 
-- **Android**: Kotlin app with Jetpack Compose
-- **Windows**: Python/PyQt6 desktop application
-- **Linux**: Coming soon
-- **macOS**: Coming soon
+### For Users
+1. Open Bountu app
+2. Go to Packages tab
+3. Tap refresh button
+4. Browse and install packages
 
-## 🔧 Adding New Packages
+### For Developers
+1. Clone this repository
+2. Add new packages to \packages/\ directory
+3. Use \PACKAGE_TEMPLATE.json\ as template
+4. Commit and push
 
-To add a new package:
+## 📝 Adding a Package
 
-1. Create a folder in `packages/` with the package ID
-2. Add `metadata.json` with package information
-3. Host the actual package binary (GitHub Releases, CDN, etc.)
-4. Commit and push changes
+See \QUICK_COMMANDS.md\ for detailed instructions.
 
-### Package Metadata Format
+Quick example:
+\\\ash
+# Create package directory
+mkdir packages/newpackage
 
-```json
-{
-  "id": "package-name",
-  "name": "Package Display Name",
-  "version": "1.0.0",
-  "description": "Package description",
-  "category": "utilities",
-  "size": 1048576,
-  "dependencies": ["dependency1", "dependency2"],
-  "downloadUrl": "https://example.com/package.zip",
-  "checksumSha256": "abc123..."
-}
-```
+# Copy template
+copy PACKAGE_TEMPLATE.json packages/newpackage/metadata.json
 
-## 🌐 Using This Repository
-
-### For Android App:
-```kotlin
-val repoUrl = "https://github.com/YOUR_USERNAME/bountu-packages-global.git"
-gitManager.initialize(repoUrl)
-```
-
-### For Desktop App:
-```python
-repo_url = "https://github.com/YOUR_USERNAME/bountu-packages-global.git"
-git_manager.initialize(repo_url)
-```
-
-## 📊 Current Statistics
-
-- **Total Packages**: 5
-- **Categories**: 3 (Development, Utilities, Editors)
-- **Last Updated**: 2024
-
-## 🤝 Contributing
-
-Want to add packages? Follow these steps:
-
-1. Fork this repository
-2. Add your package metadata
-3. Submit a pull request
-4. Wait for review and approval
-
-## 📜 License
-
-This repository is licensed under the MIT License.
+# Edit metadata.json
+# Commit and push
+git add packages/newpackage
+git commit -m \"Add newpackage\"
+git push
+\\\
 
 ## 🔗 Links
 
-- **Bountu Android App**: [GitHub Repository]
-- **Bountu Desktop App**: [GitHub Repository]
-- **Documentation**: [Wiki]
-- **Issues**: [Issue Tracker]
+- **Repository:** https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global
+- **Issues:** https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/issues
+- **Releases:** https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases
 
-## 💡 Why Git-Based?
+## 📄 License
 
-- ✅ **Free Forever**: No hosting costs
-- ✅ **Offline Support**: Works without internet after sync
-- ✅ **Version Control**: Full history of all changes
-- ✅ **Decentralized**: Anyone can host their own repository
-- ✅ **Transparent**: All changes are public and auditable
-
-## 🛠️ Maintenance
-
-This repository is maintained by the Bountu team. For issues or questions, please open an issue on GitHub.
-
----
-
-**Made by SN-Mrdatobg**
-
-*Bountu - Git-Powered Package Management* 🚀
+See LICENSE file for details.
