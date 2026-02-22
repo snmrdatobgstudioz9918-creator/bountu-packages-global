@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"gradle\",
+  \"name\": \"Gradle\",
+  \"version\": \"8.5\",
+  \"description\": \"Build automation tool\",
+  \"category\": \"development\",
+  \"size\": 122880000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/gradle-8.5-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

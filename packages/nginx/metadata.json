@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"nginx\",
+  \"name\": \"Nginx\",
+  \"version\": \"1.24.0\",
+  \"description\": \"High-performance HTTP server and reverse proxy\",
+  \"category\": \"web\",
+  \"size\": 1536000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/nginx-1.24.0-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

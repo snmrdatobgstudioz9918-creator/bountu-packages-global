@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"apache\",
+  \"name\": \"Apache HTTP Server\",
+  \"version\": \"2.4.58\",
+  \"description\": \"The most popular web server\",
+  \"category\": \"web\",
+  \"size\": 2048000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/apache-2.4.58-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

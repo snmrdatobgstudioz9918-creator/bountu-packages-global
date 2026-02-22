@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"mongodb\",
+  \"name\": \"MongoDB\",
+  \"version\": \"7.0.4\",
+  \"description\": \"NoSQL document database\",
+  \"category\": \"database\",
+  \"size\": 40960000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/mongodb-7.0.4-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

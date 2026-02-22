@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"redis\",
+  \"name\": \"Redis\",
+  \"version\": \"7.2.3\",
+  \"description\": \"In-memory data structure store\",
+  \"category\": \"database\",
+  \"size\": 2560000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/redis-7.2.3-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

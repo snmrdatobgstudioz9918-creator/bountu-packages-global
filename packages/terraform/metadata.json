@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"terraform\",
+  \"name\": \"Terraform\",
+  \"version\": \"1.6.6\",
+  \"description\": \"Infrastructure as code tool\",
+  \"category\": \"development\",
+  \"size\": 20480000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/terraform-1.6.6-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

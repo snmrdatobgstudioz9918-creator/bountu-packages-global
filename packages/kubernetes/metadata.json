@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"kubernetes\",
+  \"name\": \"Kubernetes\",
+  \"version\": \"1.28.4\",
+  \"description\": \"Container orchestration platform\",
+  \"category\": \"development\",
+  \"size\": 153600000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/kubernetes-1.28.4-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

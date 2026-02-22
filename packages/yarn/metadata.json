@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"yarn\",
+  \"name\": \"Yarn\",
+  \"version\": \"1.22.21\",
+  \"description\": \"Fast package manager\",
+  \"category\": \"development\",
+  \"size\": 5120000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/yarn-1.22.21-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

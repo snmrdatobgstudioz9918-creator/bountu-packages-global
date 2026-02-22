@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"mysql\",
+  \"name\": \"MySQL\",
+  \"version\": \"8.0.35\",
+  \"description\": \"Popular open-source relational database\",
+  \"category\": \"database\",
+  \"size\": 51200000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/mysql-8.0.35-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

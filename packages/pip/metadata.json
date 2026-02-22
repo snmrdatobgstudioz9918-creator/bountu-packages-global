@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"pip\",
+  \"name\": \"pip\",
+  \"version\": \"23.3.2\",
+  \"description\": \"Python package installer\",
+  \"category\": \"development\",
+  \"size\": 2048000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/pip-23.3.2-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

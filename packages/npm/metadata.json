@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"npm\",
+  \"name\": \"npm\",
+  \"version\": \"10.2.5\",
+  \"description\": \"Node package manager\",
+  \"category\": \"development\",
+  \"size\": 7168000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/npm-10.2.5-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}

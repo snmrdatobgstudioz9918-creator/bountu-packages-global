@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"composer\",
+  \"name\": \"Composer\",
+  \"version\": \"2.6.6\",
+  \"description\": \"Dependency manager for PHP\",
+  \"category\": \"development\",
+  \"size\": 2560000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/composer-2.6.6-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}
