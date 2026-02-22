@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"zip\",
+  \"name\": \"Info-ZIP\",
+  \"version\": \"3.0\",
+  \"description\": \"Compression and file packaging utility\",
+  \"category\": \"compression\",
+  \"size\": 384000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/zip-3.0-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}
