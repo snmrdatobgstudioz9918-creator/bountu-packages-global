@@ -1,0 +1,11 @@
+﻿{
+  \"id\": \"tmux\",
+  \"name\": \"tmux\",
+  \"version\": \"3.3a\",
+  \"description\": \"Terminal multiplexer for managing multiple terminal sessions\",
+  \"category\": \"utilities\",
+  \"size\": 640000,
+  \"dependencies\": [],
+  \"downloadUrl\": \"https://github.com/snmrdatobgstudioz9918-creator/bountu-packages-global/releases/download/v1.0/tmux-3.3a-android.zip\",
+  \"checksumSha256\": \"placeholder-checksum\"
+}
