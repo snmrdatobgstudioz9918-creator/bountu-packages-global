@@ -1,0 +1,17 @@
+{
+  "id": "vim",
+  "name": "Vim",
+  "version": "9.0",
+  "description": "Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient. It is included as 'vi' with most UNIX systems and with Apple OS X.",
+  "category": "editors",
+  "size": 20971520,
+  "dependencies": [],
+  "downloadUrl": "https://github.com/vim/vim-win32-installer/releases/download/v9.0.0000/gvim_9.0.0000_x64.exe",
+  "checksumSha256": "a1a2a3a4a5a6a7a8a9a0b1b2b3b4b5b6b7b8b9b0c1c2c3c4c5c6c7c8c9c0d1d2",
+  "author": "Bram Moolenaar",
+  "license": "Vim",
+  "homepage": "https://www.vim.org",
+  "tags": ["editor", "text", "development", "terminal"],
+  "platform": "windows",
+  "architecture": "x86_64"
+}

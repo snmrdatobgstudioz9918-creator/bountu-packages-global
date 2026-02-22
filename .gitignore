@@ -1,0 +1,33 @@
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Build Artifacts
+build/
+dist/
+*.pyc
+__pycache__/
+
+# Package Files (actual binaries should be hosted elsewhere)
+*.exe
+*.msi
+*.zip
+*.tar.gz
+*.deb
+*.rpm
+
+# Keep only metadata
+!packages/*/metadata.json

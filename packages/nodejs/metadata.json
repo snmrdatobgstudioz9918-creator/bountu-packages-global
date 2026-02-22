@@ -1,0 +1,17 @@
+{
+  "id": "nodejs",
+  "name": "Node.js",
+  "version": "20.10.0",
+  "description": "Node.js is an open-source, cross-platform JavaScript runtime environment that executes JavaScript code outside a web browser. Perfect for building scalable network applications.",
+  "category": "development",
+  "size": 73400320,
+  "dependencies": [],
+  "downloadUrl": "https://nodejs.org/dist/v20.10.0/node-v20.10.0-x64.msi",
+  "checksumSha256": "f1f2f3f4f5f6f7f8f9f0e1e2e3e4e5e6e7e8e9e0d1d2d3d4d5d6d7d8d9d0c1c2",
+  "author": "Node.js Foundation",
+  "license": "MIT",
+  "homepage": "https://nodejs.org",
+  "tags": ["javascript", "runtime", "development", "npm"],
+  "platform": "windows",
+  "architecture": "x86_64"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "vscode",
+  "name": "Visual Studio Code",
+  "version": "1.85.0",
+  "description": "Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop. It comes with built-in support for JavaScript, TypeScript and Node.js.",
+  "category": "editors",
+  "size": 104857600,
+  "dependencies": [],
+  "downloadUrl": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64",
+  "checksumSha256": "c1c2c3c4c5c6c7c8c9c0d1d2d3d4d5d6d7d8d9d0e1e2e3e4e5e6e7e8e9e0f1f2",
+  "author": "Microsoft",
+  "license": "MIT",
+  "homepage": "https://code.visualstudio.com",
+  "tags": ["editor", "ide", "development", "microsoft"],
+  "platform": "windows",
+  "architecture": "x86_64"
+}

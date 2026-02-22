@@ -1,0 +1,17 @@
+{
+  "id": "python3",
+  "name": "Python 3",
+  "version": "3.12.1",
+  "description": "Python is a programming language that lets you work quickly and integrate systems more effectively. Python 3 is the latest major version with many improvements.",
+  "category": "development",
+  "size": 104857600,
+  "dependencies": [],
+  "downloadUrl": "https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe",
+  "checksumSha256": "9e9e0f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e9f8e",
+  "author": "Python Software Foundation",
+  "license": "PSF",
+  "homepage": "https://www.python.org",
+  "tags": ["programming", "language", "development", "scripting"],
+  "platform": "windows",
+  "architecture": "x86_64"
+}

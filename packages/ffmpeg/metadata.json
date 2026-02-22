@@ -1,0 +1,17 @@
+{
+  "id": "ffmpeg",
+  "name": "FFmpeg",
+  "version": "6.1",
+  "description": "FFmpeg is a complete, cross-platform solution to record, convert and stream audio and video. It includes libavcodec - the leading audio/video codec library.",
+  "category": "multimedia",
+  "size": 83886080,
+  "dependencies": [],
+  "downloadUrl": "https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip",
+  "checksumSha256": "b1b2b3b4b5b6b7b8b9b0a1a2a3a4a5a6a7a8a9a0c1c2c3c4c5c6c7c8c9c0d1d2",
+  "author": "FFmpeg Team",
+  "license": "GPL-3.0",
+  "homepage": "https://ffmpeg.org",
+  "tags": ["multimedia", "video", "audio", "converter", "streaming"],
+  "platform": "windows",
+  "architecture": "x86_64"
+}

@@ -1,0 +1,40 @@
+{
+  "categories": [
+    {
+      "id": "development",
+      "name": "Development Tools",
+      "description": "Programming languages, compilers, and development utilities",
+      "icon": "code"
+    },
+    {
+      "id": "utilities",
+      "name": "System Utilities",
+      "description": "Essential system tools and utilities",
+      "icon": "build"
+    },
+    {
+      "id": "editors",
+      "name": "Text Editors",
+      "description": "Code editors and text manipulation tools",
+      "icon": "edit"
+    },
+    {
+      "id": "networking",
+      "name": "Network Tools",
+      "description": "Network utilities and communication tools",
+      "icon": "network"
+    },
+    {
+      "id": "multimedia",
+      "name": "Multimedia",
+      "description": "Audio, video, and image processing tools",
+      "icon": "movie"
+    },
+    {
+      "id": "security",
+      "name": "Security Tools",
+      "description": "Encryption, authentication, and security utilities",
+      "icon": "lock"
+    }
+  ]
+}

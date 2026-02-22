@@ -1,0 +1,17 @@
+{
+  "id": "curl",
+  "name": "cURL",
+  "version": "8.5.0",
+  "description": "curl is a command-line tool for transferring data with URLs. It supports HTTP, HTTPS, FTP, and many other protocols. Perfect for API testing and file downloads.",
+  "category": "networking",
+  "size": 4194304,
+  "dependencies": [],
+  "downloadUrl": "https://curl.se/windows/dl-8.5.0/curl-8.5.0-win64-mingw.zip",
+  "checksumSha256": "1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t1u2v3w4x5y6z7a8b9c0d1e2f",
+  "author": "Daniel Stenberg",
+  "license": "MIT",
+  "homepage": "https://curl.se",
+  "tags": ["networking", "http", "download", "api", "utilities"],
+  "platform": "windows",
+  "architecture": "x86_64"
+}

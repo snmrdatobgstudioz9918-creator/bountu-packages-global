@@ -1,0 +1,15 @@
+{
+  "minVersion": "1.0.0",
+  "latestVersion": "1.0.0",
+  "forceUpdate": false,
+  "updateMessage": "A new version of Bountu is available! Update now for the latest features and improvements.",
+  "enabledFeatures": [
+    "package_install",
+    "package_search",
+    "offline_mode",
+    "auto_sync"
+  ],
+  "repositoryUrl": "https://github.com/YOUR_USERNAME/bountu-packages-global.git",
+  "supportEmail": "support@bountu.app",
+  "websiteUrl": "https://bountu.app"
+}
